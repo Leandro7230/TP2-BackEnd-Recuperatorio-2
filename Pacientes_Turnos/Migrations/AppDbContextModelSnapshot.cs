@@ -1,0 +1,105 @@
+﻿
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using Pacientes_Turnos.Data;
+
+#nullable disable
+
+namespace Pacientes_Turnos.Migrations
+{
+    [DbContext(typeof(AppDbContext))]
+    partial class AppDbContextModelSnapshot : ModelSnapshot
+    {
+        protected override void BuildModel(ModelBuilder modelBuilder)
+        {
+#pragma warning disable 612, 618
+            modelBuilder
+                .HasAnnotation("ProductVersion", "9.0.10")
+                .HasAnnotation("Relational:MaxIdentifierLength", 128);
+
+            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Pacientes_Turnos.Clases.Paciente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Apellido")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Dni")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Telefono")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Pacientes");
+                });
+
+            modelBuilder.Entity("Pacientes_Turnos.Clases.Turno", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Especialidad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Fecha")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Hora")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PacienteId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PacienteId");
+
+                    b.ToTable("Turnos");
+                });
+
+            modelBuilder.Entity("Pacientes_Turnos.Clases.Turno", b =>
+                {
+                    b.HasOne("Pacientes_Turnos.Clases.Paciente", "Paciente")
+                        .WithMany("Turnos")
+                        .HasForeignKey("PacienteId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Paciente");
+                });
+
+            modelBuilder.Entity("Pacientes_Turnos.Clases.Paciente", b =>
+                {
+                    b.Navigation("Turnos");
+                });
+#pragma warning restore 612, 618
+        }
+    }
+}
