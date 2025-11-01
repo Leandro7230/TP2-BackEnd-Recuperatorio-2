@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Pacientes_Turnos.Data;
-using Pacientes_Turnos.Mapping;
+using Pacientes_Turnos.Service;
+using Pacientes_Turnos.Services;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,8 +13,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-
-builder.Services.AddAutoMapper(typeof(MappingConfig));
+builder.Services.AddScoped<IPacienteService, PacienteService>();
+builder.Services.AddScoped<ITurnoService, TurnoService>();
 
 var app = builder.Build();
 
@@ -22,6 +24,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseAuthorization();
+app.UseHttpsRedirection();
 app.MapControllers();
 app.Run();

@@ -171,3 +171,4 @@ C:\Users\leand\source\repos\Pacientes_Turnos_Api\Pacientes_Turnos\obj\Debug\net8
 C:\Users\leand\source\repos\Pacientes_Turnos_Api\Pacientes_Turnos\obj\Debug\net8.0\ref\Pacientes_Turnos.dll
 C:\Users\leand\source\repos\Pacientes_Turnos_Api\Pacientes_Turnos\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\leand\source\repos\Pacientes_Turnos_Api\Pacientes_Turnos\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\leand\source\repos\Pacientes_Turnos_Api\Pacientes_Turnos\obj\Debug\net8.0\Pacientes_Turnos.sourcelink.json

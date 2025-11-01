@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\pacientes_turnos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\pacientes_turnos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\services\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\services\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\clases\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\clases\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\dto\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\clases\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\clases\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\clases\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\clases\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\dto\\turnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\dto\\turnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|c:\\users\\leand\\source\\repos\\pacientes_turnos_api\\pacientes_turnos\\pacientes_turnos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{47427B52-75FD-4450-5A92-D86998B162CC}|Pacientes_Turnos\\Pacientes_Turnos.csproj|solutionrelative:pacientes_turnos\\pacientes_turnos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,34 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:55:05.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20251030225546_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:54:54.474Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
@@ -100,7 +94,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:15:44.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Services\\TurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:13:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\PacienteService.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Services\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\PacienteService.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Services\\PacienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:12:19.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Services\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\ITurnoService.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Services\\ITurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:11:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T23:00:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Program.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Program.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Program.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:50:23.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pacientes_Turnos.csproj",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Pacientes_Turnos.csproj",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Pacientes_Turnos.csproj",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Pacientes_Turnos.csproj",
+              "RelativeToolTip": "Pacientes_Turnos\\Pacientes_Turnos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T03:35:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\IPacienteService.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Services\\IPacienteService.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Services\\IPacienteService.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Services\\IPacienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:10:25.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Mapping\\MappingConfig.cs",
               "RelativeDocumentMoniker": "Pacientes_Turnos\\Mapping\\MappingConfig.cs",
@@ -108,38 +206,23 @@
               "RelativeToolTip": "Pacientes_Turnos\\Mapping\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:24:57.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T03:24:57.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PacientesController.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Controllers\\PacientesController.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\Controllers\\PacientesController.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Controllers\\PacientesController.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\Controllers\\PacientesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "20251030225546_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Migrations\\20251030225546_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T23:00:21.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T03:54:54.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Program.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\Program.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Program.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T22:50:23.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\appsettings.json",
               "RelativeDocumentMoniker": "Pacientes_Turnos\\appsettings.json",
@@ -152,59 +235,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PacienteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\PacienteDTO.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\DTO\\PacienteDTO.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\PacienteDTO.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\DTO\\PacienteDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:36:24.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TurnoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\TurnoDTO.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\DTO\\TurnoDTO.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\TurnoDTO.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\DTO\\TurnoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:42:17.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Turno.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Clases\\Turno.cs",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\Clases\\Turno.cs",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Clases\\Turno.cs",
-              "RelativeToolTip": "Pacientes_Turnos\\Clases\\Turno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T22:42:06.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Clases\\Paciente.cs",
               "RelativeDocumentMoniker": "Pacientes_Turnos\\Clases\\Paciente.cs",
               "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Clases\\Paciente.cs",
               "RelativeToolTip": "Pacientes_Turnos\\Clases\\Paciente.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T22:40:26.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Pacientes_Turnos\\Data\\AppDbContext.cs",
@@ -217,16 +261,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Pacientes_Turnos",
-              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Pacientes_Turnos.csproj",
-              "RelativeDocumentMoniker": "Pacientes_Turnos\\Pacientes_Turnos.csproj",
-              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Pacientes_Turnos.csproj",
-              "RelativeToolTip": "Pacientes_Turnos\\Pacientes_Turnos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T03:35:44.874Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:55:05.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PacienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\PacienteDTO.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\DTO\\PacienteDTO.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\PacienteDTO.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\DTO\\PacienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:36:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurnoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\TurnoDTO.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\DTO\\TurnoDTO.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\DTO\\TurnoDTO.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\DTO\\TurnoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:42:17.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Clases\\Turno.cs",
+              "RelativeDocumentMoniker": "Pacientes_Turnos\\Clases\\Turno.cs",
+              "ToolTip": "C:\\Users\\leand\\source\\repos\\Pacientes_Turnos_Api\\Pacientes_Turnos\\Clases\\Turno.cs",
+              "RelativeToolTip": "Pacientes_Turnos\\Clases\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:42:06.262Z"
             }
           ]
         }
